@@ -6,8 +6,8 @@
 - *Members*:
   - [Lai Wang Hong ] (SID: 11699983)
   - [Student 2 Name] (SID: 13176461)
-  - [Student 3 Name] (SID: 12932680)
-  - [Student 4 Name] (SID: 13648665)
+  - [Mutao ZHAO    ] (SID: 12932680)
+  - [Yuen Wun      ] (SID: 13648665)
 
 ## Project File Intro
 - **server.js**: Main server file for Express.js configuration, authentication middleware, route handlers, database connection, and session management.
